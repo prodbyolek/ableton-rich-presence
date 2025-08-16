@@ -25,3 +25,6 @@ Displays project name, plugins in use, and more.
 git clone https://github.com/prodbyolek/ableton-rich-presence.git
 cd ableton-rich-presence
 pip install -r requirements.txt
+
+## Usage
+Make the installation process then run python script provided in zip!
