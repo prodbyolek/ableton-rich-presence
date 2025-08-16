@@ -11,6 +11,11 @@ Displays project name, plugins in use, and more.
 - Idle status when not using plugins
 - Supports custom buttons linking to websites (e.g., SoundCloud, GitHub, etc.) [WORK IN PROGRESS]
 
+## Supported OS
+- Windows 11
+- Windows 10
+- MacOS
+
 ## Requirements
 - Python 3.8+
 - Discord Desktop app running
