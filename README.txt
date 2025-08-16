@@ -7,9 +7,9 @@ Displays project name, plugins in use, and more.
 - Detects when Ableton is running
 - Shows project name in Discord status
 - Detects plugins (e.g., Serum, ValhallaDelay, FabFilter, etc.)
-- Special images for plugins (configurable)
+- Special images for plugins (configurable) [WORK IN PROGRESS]
 - Idle status when not using plugins
-- Supports custom buttons linking to websites (e.g., SoundCloud, GitHub, etc.)
+- Supports custom buttons linking to websites (e.g., SoundCloud, GitHub, etc.) [WORK IN PROGRESS]
 
 ## Requirements
 - Python 3.8+
