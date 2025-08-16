@@ -29,4 +29,4 @@ pip install -r requirements.txt
 ## Usage
 Make the installation process then run python script provided in zip!
 
-JUST LMK IF SOMETHING'S OF, IM A PRODUCER, NOT A CODING GEEK
+JUST LMK IF SOMETHING'S OFF, IM A PRODUCER, NOT A CODING GEEK
