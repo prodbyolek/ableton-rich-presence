@@ -30,3 +30,4 @@ pip install -r requirements.txt
 Make the installation process then run python script provided in zip!
 
 JUST LMK IF SOMETHING'S OFF, IM A PRODUCER, NOT A CODING GEEK
+pip install -r requirements.txt
