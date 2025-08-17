@@ -1,4 +1,4 @@
-# Ableton Rich Presence 🎶
+# Ableton Rich Presence 🎶 (b0.1)
 TUTORIAL:::
 https://youtu.be/vIYj3ROgcoM
 
